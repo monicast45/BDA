@@ -1,0 +1,80 @@
+[{
+  "_id": {
+    "$oid": "663f839ca79c890fc36eb6ea"
+  },
+  "id": 1234,
+  "nombre": "Daniel",
+  "apellidos": "Hernandez Mejia",
+  "edad": 20,
+  "numero_jugador": 1
+},
+{
+  "_id": {
+    "$oid": "663f839ca79c890fc36eb6eb"
+  },
+  "id": 1235,
+  "nombre": "Andres",
+  "apellidos": "Diaz Yandun",
+  "edad": 18,
+  "numero_jugador": 10
+},
+{
+  "_id": {
+    "$oid": "663f839ca79c890fc36eb6ec"
+  },
+  "id": 1236,
+  "nombre": "Roberth",
+  "apellidos": "Pinchao",
+  "edad": 19,
+  "numero_jugador": 5
+},
+{
+  "_id": {
+    "$oid": "663f839ca79c890fc36eb6ed"
+  },
+  "id": 1237,
+  "nombre": "Cristian",
+  "apellidos": "Castro",
+  "edad": 20,
+  "numero_jugador": 4
+},
+{
+  "_id": {
+    "$oid": "663f839ca79c890fc36eb6ee"
+  },
+  "id": 1238,
+  "nombre": "Santiago",
+  "apellidos": "Yepez Santacruz",
+  "edad": 18,
+  "numero_jugador": 8
+},
+{
+  "_id": {
+    "$oid": "663f839ca79c890fc36eb6ef"
+  },
+  "id": 1239,
+  "nombre": "Camilo",
+  "apellidos": "Rosero Ramirez",
+  "edad": 18,
+  "numero_jugador": 7
+},
+{
+  "_id": {
+    "$oid": "663f839ca79c890fc36eb6f0"
+  },
+  "id": 1230,
+  "nombre": "Sebastian",
+  "apellidos": "Martinez",
+  "edad": 18,
+  "numero_jugador": 12
+},
+{
+  "_id": {
+    "$oid": "663f839ca79c890fc36eb6f1"
+  },
+  "id": 1234,
+  "nombre": "Fernando",
+  "apellidos": "Cuastumal Tarapues",
+  "edad": 18,
+  "numero_jugador": 15
+}]
